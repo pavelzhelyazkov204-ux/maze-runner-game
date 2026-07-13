@@ -50,14 +50,14 @@ as running out of hearts results in a game over.
 ## How to Run the Game
 ### Prerequisites
 - Ensure you have Java 17 installed.
-- Set up the LibGDX framework and Gradle in your project.
 ### Steps:
 1) Open Project:
-    - Open IntelliJ IDEA and load Maze Runner _"The Adventures of Antonio Banderas" project. 
+    - Open IntelliJ IDEA or VSC and load Maze Runner "The Adventures of Antonio Banderas" project. 
 2) Configure Gradle:
     - Ensure Gradle is configured for Java 17.
     - Confirm `DesktopLauncher` as the correct main class. 
     - Ensure correct configurations in the `build.gradle` file.
+    - run ./gradlew desktop:run in the Terminal
 3) Run DesktopLauncher:
    - Locate the DesktopLauncher class in your project. It should be in desktop module under the de.tum.cit.ase.maze
    - Right-click on the DesktopLauncher class.
