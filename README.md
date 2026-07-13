@@ -1,4 +1,4 @@
-# Maze Runner Game: _The Adventures of Antonio Banderas
+# Maze Runner Game: The Adventures of Antonio Banderas
 
 ---
 
@@ -53,7 +53,7 @@ as running out of hearts results in a game over.
 - Set up the LibGDX framework and Gradle in your project.
 ### Steps:
 1) Open Project:
-- Open IntelliJ IDEA and load Maze Runner _"The Adventures of Antonio Banderas" project. 
+    - Open IntelliJ IDEA and load Maze Runner _"The Adventures of Antonio Banderas" project. 
 2) Configure Gradle:
     - Ensure Gradle is configured for Java 17.
     - Confirm `DesktopLauncher` as the correct main class. 
