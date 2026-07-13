@@ -1,4 +1,4 @@
-# Maze Runner Game: _The Adventures of Antonio Banderas ![Alt Text](C:\Users\DELL\IdeaProjects\itp2324itp2324projectwork-tortilla\assets\icon16.png)_
+# Maze Runner Game: _The Adventures of Antonio Banderas
 
 ---
 
